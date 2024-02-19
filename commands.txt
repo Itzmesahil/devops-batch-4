@@ -5,3 +5,4 @@ git rm --cached
 git commit -m
 git log
 git restore
+2ND COMMIT SO FAR WE CAMED
