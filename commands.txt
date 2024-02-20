@@ -12,3 +12,4 @@ git config --global user.email ""
 gut checkout -b
 git checkout master
 git branch
+----------------------------------------------------2nd Day------------------------------------------------------------
